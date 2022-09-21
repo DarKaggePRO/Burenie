@@ -1,0 +1,10 @@
+@import "bourbon";
+
+@include font-face("ProximaNovaBlack", "../fonts/Proxima Nova Black/Proxima Nova Black", $file-formats: eot woff ttf);
+@include font-face("ProximaNovaExtrabold", "../fonts/Proxima Nova Extrabold/Proxima Nova Extrabold", $file-formats: eot woff ttf);
+@include font-face("ProximaNovaLight", "../fonts/Proxima Nova Light/Proxima Nova Light", $file-formats: eot woff ttf);
+@include font-face("ProximaNovaRegular", "../fonts/Proxima Nova Regular/Proxima Nova Regular", $file-formats: eot woff ttf);
+@include font-face("ProximaNovaSemibold", "../fonts/Proxima Nova Semibold/Proxima Nova Semibold", $file-formats: eot woff ttf);
+@include font-face("ProximaNovaThin", "../fonts/Proxima Nova Thin/Proxima Nova Thin", $file-formats: eot woff ttf);
+@include font-face("ProximaNovaBold", "../fonts/Proxima Nova Bold/Proxima Nova Bold", $file-formats: eot woff ttf);
+@include font-face("OpenSans-Light", "../fonts/OpenSans-Light/OpenSans-Light", $file-formats:  ttf);
